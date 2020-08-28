@@ -1,0 +1,32 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f7112d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+body {
+  margin: 0;
+background-color: #bcb5f7;
+background-image:url("order-confirmed-concept-illustration_114360-1486.jpg")
+}
+#confirmation {
+  background-color: lightskyblue;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  border: 2px;
+  border-color: blue;
+}
+body {
+  background-color: #dddddd;
+}
